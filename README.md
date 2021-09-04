@@ -1,6 +1,6 @@
 # Simple React app with Docker
 
-# FrontEnd
+# Frontend
 
 For first time users please run:
 
